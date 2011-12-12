@@ -1,0 +1,11 @@
+<distributionManagement>
+	<repository>
+		<id>repo</id>
+		<url>https://github.com/bubblesway/bubbleswayrepo/raw/master/releases</url>
+	</repository>
+	<snapshotRepository>
+		<id>snapshot-repo</id>
+		<url>https://github.com/bubblesway/bubbleswayrepo/raw/master/snapshots</url>
+	</snapshotRepository>
+</distributionManagement>
+
